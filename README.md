@@ -8,6 +8,8 @@ you want to use these on your site please download animate.css or jquery.animate
 
 Find The arrays in the "Arrays_Of_Animation_Names.js"
 
+Animate.css can be found at:
+https://github.com/daneden/animate.css/
 
 
 Coded By: safjammed
